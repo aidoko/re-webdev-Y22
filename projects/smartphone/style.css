@@ -5,15 +5,16 @@
     margin: 2.5em;
 }*/
 
-#smartphone{
+/*#smartphone{
     width: 200px;
     height: 100px;
     justify-content: center;
     position: relative;
-}
+}*/
 .Phone{
     position:relative;
     width: 200px;
+    bottom: -100px;
 }
 .main-menu-hub{
 justify-content: center;
