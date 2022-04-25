@@ -6,10 +6,12 @@
 }*/
 
 .smartphone{
-    width: 10px;
-    height: 10px;
-    background-color: brown;
+    width: 100px;
+    height: 100px;
     justify-content: center;
+}
+.main-menu-hub{
+justify-content: center;
 }
 .apps{
 display: flex;
