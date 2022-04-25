@@ -12,7 +12,8 @@
     position: relative;
 }
 .phone{
-    position:relative
+    position:relative;
+    width: 200px;
 }
 .main-menu-hub{
 justify-content: center;
