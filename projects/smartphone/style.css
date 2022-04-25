@@ -1,13 +1,15 @@
-.smartphone{
+/*.smartphone{
     width: 50rem;
     height: 50rem;
     background-color:gray;
     margin: 2.5em;
-}
+}*/
+
 .smartphone{
     width: 10px;
     height: 10px;
     background-color: brown;
+    justify-content: center;
 }
 .apps{
 display: flex;
