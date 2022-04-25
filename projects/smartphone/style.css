@@ -6,9 +6,10 @@
 }*/
 
 .smartphone{
-    width: 100px;
-    height: 100px;
+    width: 1px;
+    height: 1px;
     justify-content: center;
+    position: inherit;
 }
 .main-menu-hub{
 justify-content: center;
