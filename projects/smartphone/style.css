@@ -4,8 +4,18 @@
     background-color:gray;
     margin: 2.5em;
 }
-
+.smartphone{
+    width: 10px;
+    height: 10px;
+    background-color: brown;
+}
+.apps{
+display: flex;
+flex-wrap: wrap;
+flex-direction: row ;  
+}
 .img{
     margin: 200rem;
     width: 200px;
+    height: 200px;
 }
