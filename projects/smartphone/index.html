@@ -10,8 +10,8 @@
 <div class="smartphone">
     
     <div class="apps">
-        <img class="" src="images/Favorites.png" alt="Favorites App">
-        <img src="images/Notepad.png" alt="Notepad App">
+        <img class="favorites" src="images/Favorites.png" alt="Favorites App">
+        <img class="notepad"src="images/Notepad.png" alt="Notepad App">
         <img src="images/Phone.png" alt="Phone App">
         <img src="images/BraveStarWeb.png" alt="Bravestar Mobile Web Browser">
         <img src="images/Files.png" alt="Files App">
@@ -33,15 +33,11 @@
     .smartphone{
         width: 10px;
         height: 10px;
+        background-color: brown;
     }
     .apps{
-        width: 20px;
-        height: 5px;
-
-        display: flex;
-        flex-wrap: wrap;
-        justify-content: center;
-        order: 4;
+        display: flexbox;
+        flex-direction: row;
         flex-direction: column;
     }
 </style>
