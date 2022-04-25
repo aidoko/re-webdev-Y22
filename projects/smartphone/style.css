@@ -9,8 +9,10 @@
     width: 200px;
     height: 100px;
     justify-content: center;
-    position: inherit;
-    background-color: red;
+    position: relative;
+}
+.phone{
+    position:relative
 }
 .main-menu-hub{
 justify-content: center;
