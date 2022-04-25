@@ -5,12 +5,12 @@
     margin: 2.5em;
 }*/
 
-.smartphone{
+#smartphone{
     width: 200px;
     height: 100px;
     justify-content: center;
     position: inherit;
-    background: red;
+    background-color: red;
 }
 .main-menu-hub{
 justify-content: center;
@@ -18,7 +18,7 @@ justify-content: center;
 .apps{
 display: flex;
 flex-wrap: wrap;
-flex-direction: row ;  
+flex-direction: row;  
 }
 .img{
     margin: 200rem;
