@@ -6,8 +6,8 @@
 }*/
 
 .smartphone{
-    width: 1px;
-    height: 1px;
+    width: 200px;
+    height: 100px;
     justify-content: center;
     position: inherit;
     background: red;
