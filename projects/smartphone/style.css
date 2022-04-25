@@ -10,6 +10,7 @@
     height: 1px;
     justify-content: center;
     position: inherit;
+    background: red;
 }
 .main-menu-hub{
 justify-content: center;
